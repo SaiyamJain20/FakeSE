@@ -1,7 +1,6 @@
-# Team 24 | FakeSE: Simulated Stock Exchange Platform
+# FakeSE: Simulated Stock Exchange Platform
 
 ---
-Github - https://github.com/Mehul022/se_project3 
 ## Task 1: Requirements and Subsystems
 
 ---
@@ -759,13 +758,3 @@ For FakeSE's scale (educational platform, ~100 concurrent users, single team), t
 | Task 4 | End-to-end prototype traced, latency & throughput quantified, trade-off analysis vs. synchronous microservices |
 
 ---
-
-## Individual Contributions 
-
-1. Divijh - Initial setup of kafka,redis and starter code for backend and frontend. Code/bug fixes and integration.
-2. Parth - Improved upon the frontend and backend. Dashboard making,terminal,etc. 
-3. Rudra - Integration of different stocks from markets APIs, simulator making.
-4. Nidhish - Competition mode and bug fixes and minor fixes in main code logic.
-5. Mehul - Report creations and bug fixes and code contribution in backend and frontend and testing.
-
-Signing out team 24.
